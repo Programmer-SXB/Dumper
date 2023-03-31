@@ -1,6 +1,6 @@
 import os,platform
 os.system('git pull')
-os.systeem('clear')
+os.system('clear')
 print(' SXB Tools Loading')
 xd=platform.architecture()[0]
 if xd=="32bit":
